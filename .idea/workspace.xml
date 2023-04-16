@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c6ffd24-fe9c-4c47-8526-69c8d91b133a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-bootcamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ass_1_flow_of_program/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ass_1_flow_of_program/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ass_1_flow_of_program/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="3c6ffd24-fe9c-4c47-8526-69c8d91b133a" name="Changes" comment="Dsa-Bootcamp repo created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass_1_flow_of_program/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ass_1_flow_of_program/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +35,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
+  <component name="RunManager" selected="Application.LeapYear">
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass_1_flow_of_program.LeapYear" />
+      <module name="dsa-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ass_1_flow_of_program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ass_1_flow_of_program.MultiplicationTable" />
       <module name="dsa-bootcamp" />
@@ -75,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.sum" />
       </list>
@@ -88,8 +95,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681616509700</updated>
-      <workItem from="1681616512232" duration="719000" />
+      <workItem from="1681616512232" duration="1517000" />
     </task>
+    <task id="LOCAL-00001" summary="Dsa-Bootcamp repo created">
+      <created>1681617264892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681617264892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dsa-Bootcamp repo created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa-Bootcamp repo created" />
   </component>
 </project>
