@@ -1,4 +1,4 @@
-package Ass_1_flow_of_program;
+package Dsa_Bootcamp_kunal.Ass_1_flow_of_program;
 import java.util.Scanner;
 
 
